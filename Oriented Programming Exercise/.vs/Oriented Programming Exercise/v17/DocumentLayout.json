@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\oriented programming exercise\\oriented programming exercise\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|solutionrelative:oriented programming exercise\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\oriented programming exercise\\tests\\coursetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|solutionrelative:oriented programming exercise\\tests\\coursetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\oriented programming exercise\\undergraduatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|c:\\users\\user\\documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\oriented programming exercise\\oriented programming exercise\\undergraduatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|solutionrelative:oriented programming exercise\\undergraduatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\oriented programming exercise\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|solutionrelative:oriented programming exercise\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\oriented programming exercise\\graduatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|solutionrelative:oriented programming exercise\\graduatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\oriented programming exercise\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|solutionrelative:oriented programming exercise\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\oriented programming exercise\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|solutionrelative:oriented programming exercise\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\oriented programming exercise\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|solutionrelative:oriented programming exercise\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\oriented programming exercise\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|solutionrelative:oriented programming exercise\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\oriented programming exercise\\graduatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|solutionrelative:oriented programming exercise\\graduatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\oriented programming exercise\\oriented programming exercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|solutionrelative:oriented programming exercise\\oriented programming exercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE271466-CCCF-4CB2-9545-088766746B8F}|Oriented Programming Exercise\\Oriented Programming Exercise.csproj|C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\oriented programming exercise\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,41 +67,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CourseTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\Oriented Programming Exercise\\Tests\\CourseTests.cs",
+              "RelativeDocumentMoniker": "Oriented Programming Exercise\\Tests\\CourseTests.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\Oriented Programming Exercise\\Tests\\CourseTests.cs",
+              "RelativeToolTip": "Oriented Programming Exercise\\Tests\\CourseTests.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAEwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T23:58:19.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "University.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\Oriented Programming Exercise\\University.cs",
               "RelativeDocumentMoniker": "Oriented Programming Exercise\\University.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\Oriented Programming Exercise\\University.cs*",
-              "RelativeToolTip": "Oriented Programming Exercise\\University.cs*",
-              "ViewState": "AQIAABsAAAAAAAAAAADwvzkAAAABAAAA",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\Oriented Programming Exercise\\University.cs",
+              "RelativeToolTip": "Oriented Programming Exercise\\University.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwC0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T07:49:51.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T07:49:51.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UndergraduateCourse.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\Oriented Programming Exercise\\UndergraduateCourse.cs",
-              "RelativeDocumentMoniker": "Oriented Programming Exercise\\UndergraduateCourse.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\Oriented Programming Exercise\\UndergraduateCourse.cs",
-              "RelativeToolTip": "Oriented Programming Exercise\\UndergraduateCourse.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAkwDIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T09:12:33.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\Oriented Programming Exercise\\Student.cs",
               "RelativeDocumentMoniker": "Oriented Programming Exercise\\Student.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\Oriented Programming Exercise\\Student.cs",
               "RelativeToolTip": "Oriented Programming Exercise\\Student.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAgwCIAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwB4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T08:49:32.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T08:49:32.411Z"
             },
             {
               "$type": "Document",
@@ -103,40 +109,62 @@
               "RelativeDocumentMoniker": "Oriented Programming Exercise\\Professor.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\Oriented Programming Exercise\\Professor.cs",
               "RelativeToolTip": "Oriented Programming Exercise\\Professor.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAgwCIAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwB0AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T09:00:03.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T09:00:03.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\Oriented Programming Exercise\\Person.cs",
               "RelativeDocumentMoniker": "Oriented Programming Exercise\\Person.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\Oriented Programming Exercise\\Person.cs",
               "RelativeToolTip": "Oriented Programming Exercise\\Person.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAgwC4AAAAAAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAIAzwCgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T07:59:46.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T07:59:46.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "GraduateCourse.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\Oriented Programming Exercise\\GraduateCourse.cs",
               "RelativeDocumentMoniker": "Oriented Programming Exercise\\GraduateCourse.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\Oriented Programming Exercise\\GraduateCourse.cs",
               "RelativeToolTip": "Oriented Programming Exercise\\GraduateCourse.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAA7wDkAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAADwvzMAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T09:39:09.167Z",
+              "WhenOpened": "2024-09-29T09:39:09.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UndergraduateCourse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\Oriented Programming Exercise\\UndergraduateCourse.cs",
+              "RelativeDocumentMoniker": "Oriented Programming Exercise\\UndergraduateCourse.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\Oriented Programming Exercise\\UndergraduateCourse.cs",
+              "RelativeToolTip": "Oriented Programming Exercise\\UndergraduateCourse.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwCQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:12:33.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "Oriented Programming Exercise.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\Oriented Programming Exercise\\Oriented Programming Exercise.csproj",
+              "RelativeDocumentMoniker": "Oriented Programming Exercise\\Oriented Programming Exercise.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\Oriented Programming Exercise\\Oriented Programming Exercise.csproj",
+              "RelativeToolTip": "Oriented Programming Exercise\\Oriented Programming Exercise.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-29T23:54:14.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\!\u05EA\u05DB\u05E0\u05D5\u05EA\\verisoft\\Oriented Programming Exercise\\Oriented Programming Exercise\\Course.cs",
               "RelativeDocumentMoniker": "Oriented Programming Exercise\\Course.cs",
@@ -144,8 +172,7 @@
               "RelativeToolTip": "Oriented Programming Exercise\\Course.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T09:07:12.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T09:07:12.645Z"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Oriented Programming Exercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b794273e7ef9880ccdc1d3ef9de330fb6a6775e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Oriented Programming Exercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Oriented Programming Exercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
